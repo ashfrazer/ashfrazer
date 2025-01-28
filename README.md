@@ -27,7 +27,7 @@ class ash:
 ---
 ### Current Projects:
 
-- *TutorMetrics Modeling Application*: I am creating an application that analyzes data generated from UCA's Tutoring Center. This application will contain models that analyze data and generate predictions based on historical data. The goal of this project is to provide a tool that assists in answering prominent research questions from the university.
+- [*TutorMetrics* Modeling Application](https://github.com/ashfrazer/TutorMetrics): I am creating an application that analyzes data generated from UCA's Tutoring Center. This application will contain models that analyze data and generate predictions based on historical data. The goal of this project is to provide a tool that assists in answering prominent research questions from the university.
   
   Tools: Python, Jupyter Notebooks, Sci-Kit Learn, NumPy, Pandas
 <div align="center">
