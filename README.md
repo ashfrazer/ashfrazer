@@ -32,7 +32,7 @@ class ash:
   Tools: Python, Jupyter Notebooks, Sci-Kit Learn, NumPy, Pandas
 <div align="center">
   <p>Completion:</p>
-  <img src="https://progress-bar.xyz/20" alt="TutorMetrics Progress">
+  <img src="https://progress-bar.xyz/30" alt="TutorMetrics Progress">
 </div>
 
 <br>
