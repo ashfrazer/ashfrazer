@@ -16,11 +16,10 @@ class ash:
 ### Skills:
 - **Programming Languages**
   - **Proficiency**: Java, Python, C++
-  - **Learning**: HTML, CSS, JavaScript
     
 - **Frameworks and Libraries**: Sci-Kit Learn, NumPy, Pandas, Swing, OCSF
   
-- **Tools**: IntelliJ, PyCharm, Papyrus, Visual Studio Code, Jupyter Notebooks, GitHub
+- **Tools**: Maven, Gradle, PostgreSQL, MongoDB, IntelliJ, PyCharm, Eclipse, Visual Studio Code, Jupyter Notebooks
   
 - **Soft Skills**: Problem-solving, communication, leadership, collaboration
   
@@ -32,7 +31,7 @@ class ash:
   Tools: Python, Jupyter Notebooks, Sci-Kit Learn, NumPy, Pandas
 <div align="center">
   <p>Completion:</p>
-  <img src="https://progress-bar.xyz/30" alt="TutorMetrics Progress">
+  <img src="https://progress-bar.xyz/40" alt="TutorMetrics Progress">
 </div>
 
 <br>
