@@ -1,6 +1,7 @@
 ## Hello, I'm [Ash](https://www.linkedin.com/in/ashfrazer/)! 🤠
 
 #### *CS Student* at the [University of Central Arkansas](https://uca.edu/ubulletin/colleges-departments/cs/computer-science/) 👩‍🎓
+#### *Recently Admitted* into MS Computer Science program at the [Georgia Institute of Technology](https://catalog.gatech.edu/programs/computer-science-ms/) 📖
 
 #### *Senior/Lead Tutor* at [UCA Tutoring Services](https://uca.edu/studentsuccess/tutoring-schedule/) 👩‍🏫
 ---
