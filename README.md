@@ -31,7 +31,7 @@ class ash:
   Tools: Python, Jupyter Notebooks, Sci-Kit Learn, NumPy, Pandas
 <div align="center">
   <p>Completion:</p>
-  <img src="https://progress-bar.xyz/40" alt="TutorMetrics Progress">
+  <img src="https://progress-bar.xyz/70" alt="TutorMetrics Progress">
 </div>
 
 <br>
@@ -45,14 +45,6 @@ class ash:
 </div>
 
 <br> 
-
-- *Website for my Spouse*: I am creating a surprise website for my spouse. I am currently learning HTML, CSS, and JavaScript to bring this website to life. This website is mostly a tribute to our memories, but I am learning valuable skills while developing it.
-
-    Tools: HTML, CSS, JavaScript, Visual Studio Code
-<div align="center">
-  <p>Completion:</p>
-  <img src="https://progress-bar.xyz/60" alt="TutorMetrics Progress">
-</div>
 
 ---
 ### Contact:
