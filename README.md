@@ -20,7 +20,7 @@ class ash:
     
 - **Frameworks and Libraries**: Sci-Kit Learn, NumPy, Pandas, Swing, OCSF
   
-- **Tools**: Maven, Gradle, PostgreSQL, MongoDB, IntelliJ, PyCharm, Eclipse, Visual Studio Code, Jupyter Notebooks
+- **Tools**: Maven, Gradle, PostgreSQL, MongoDB, Spring Boot, IntelliJ, PyCharm, Eclipse, Visual Studio Code, Jupyter Notebooks
   
 - **Soft Skills**: Problem-solving, communication, leadership, collaboration
   
