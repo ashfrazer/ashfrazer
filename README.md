@@ -37,12 +37,12 @@ class ash:
 
 <br>
 
-- *Chess Game*: For my capstone, I am leading a group in the development of a fully customized, real-time Chess game. This game will feature a server-client architecture. Additionally, the game will include a real-time messaging system to allow communication during gameplay.
+- [*PixelMate*](https://github.com/ashfrazer/PixelMate): For my capstone, I am leading a group in the development of a fully customized, real-time Chess game. This game will feature a server-client architecture. I created the GUI for the game, including the Chess piece icons.
 
-    Tools: Java, Swing, OCSF
+    Tools: Java, Maven, Swing, OCSF
 <div align="center">
   <p>Completion:</p>
-  <img src="https://progress-bar.xyz/30" alt="TutorMetrics Progress">
+  <img src="https://progress-bar.xyz/35" alt="TutorMetrics Progress">
 </div>
 
 <br> 
