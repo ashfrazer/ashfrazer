@@ -32,7 +32,7 @@ class ash:
   Tools: Python, Jupyter Notebooks, Sci-Kit Learn, NumPy, Pandas
 <div align="center">
   <p>Completion:</p>
-  <img src="https://progress-bar.xyz/70" alt="TutorMetrics Progress">
+  <img src="https://progress-bar.xyz/85" alt="TutorMetrics Progress">
 </div>
 
 <br>
@@ -42,7 +42,7 @@ class ash:
     Tools: Java, Maven, Swing, OCSF
 <div align="center">
   <p>Completion:</p>
-  <img src="https://progress-bar.xyz/35" alt="TutorMetrics Progress">
+  <img src="https://progress-bar.xyz/55" alt="TutorMetrics Progress">
 </div>
 
 <br> 
